@@ -5,7 +5,8 @@ Version:	1.1
 Release:	1
 License:	non-commercial (see license* files)
 Group:		Development/Tools
-Source0:	ftp://ftp.gefoekom.de/pub/unix/emulators/computer/misc/%{name}.tgz
+#Source0:	ftp://ftp.gefoekom.de/pub/unix/emulators/computer/misc/%{name}.tgz
+Source0:	%{name}.tgz
 # Source0-md5:	a0d624a2cc76e0b34c0ec2dcdf3a2118
 BuildRequires:	sed >= 4.0
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
