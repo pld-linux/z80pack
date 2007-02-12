@@ -1,5 +1,5 @@
 Summary:	Z80 assembler and simulator
-Summary(pl.UTF-8):   Asembler oraz symulator dla procesora Z80
+Summary(pl.UTF-8):	Asembler oraz symulator dla procesora Z80
 Name:		z80pack
 Version:	1.1
 Release:	1
