@@ -1,5 +1,5 @@
 Summary:	Z80 assembler and simulator
-Summary(pl):	Asembler oraz symulator dla procesora Z80
+Summary(pl.UTF-8):   Asembler oraz symulator dla procesora Z80
 Name:		z80pack
 Version:	1.1
 Release:	1
@@ -15,9 +15,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This package contains Z80 crossassembler (z80asm), Z80 simulator
 (z80sim) and Z80 simlulator capable of running CP/M (cpmsim).
 
-%description -l pl
-Ten pakiet zawiera asembler skro¶ny dla procesora Z80 (z80asm),
-symulator procesora Z80 (z80sim) oraz symulator procesora pozwalaj±cy
+%description -l pl.UTF-8
+Ten pakiet zawiera asembler skroÅ›ny dla procesora Z80 (z80asm),
+symulator procesora Z80 (z80sim) oraz symulator procesora pozwalajÄ…cy
 na uruchomienie systemu CP/M (cpmsim).
 
 %prep
